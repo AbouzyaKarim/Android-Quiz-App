@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/QuizApp_c/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/QuizApp_c/app/src/main/res/drawable/ic_baseline_mail_24.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/QuizApp_c/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/QuizApp_c/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/QuizApp_c/app/src/main/res/layout/activity_quiz1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/QuizApp_c/app/src/main/res/layout/activity_quiz2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/QuizApp_c/app/src/main/res/layout/activity_quiz3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/QuizApp_c/app/src/main/res/layout/activity_quiz4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/QuizApp_c/app/src/main/res/layout/activity_quiz5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/QuizApp_c/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/QuizApp_c/app/src/main/res/layout/activity_score.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/QuizApp_c11/app/src/main/res/drawable/custom_progressbar.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/QuizApp_c11/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/QuizApp_c11/app/src/main/res/layout/activity_score.xml" value="0.25" />
+        <entry key="..\:/Users/user/Desktop/QuizApp_c/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
