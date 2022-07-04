@@ -1,2 +1,2 @@
 ## Android Quiz App
-<img src="app/res/drawable/app.PNG">
+<img src="app\src\main\res\drawable\app.PNG">
